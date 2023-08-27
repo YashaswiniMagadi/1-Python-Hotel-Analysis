@@ -9,7 +9,7 @@ Using Python I have analysed the large dataset of the AtliQ Grands to generate u
 ______________________________________________________________________________________________________________________________________________
 
 🔶Key Learning Outcomes:  
-▶ Installation and Import of libraries  
+▶Installation and Import of libraries  
 ▶Pandas DataFrames  
 ▶Pandas attributes and functions    
 ▶Data Cleaning  
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ▶Data Exploration (info,describe)  
 ▶Data Transformation (Create new columns)  
 
-🔶Learning outside the course:  
+🔶Learning(Not Included within the course):  
 ▶Matplotlib.pyplot library  
 ▶Numpy library  
 
