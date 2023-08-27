@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 🔶Key Learning Outcomes:  
 ▶ Installation and Import of libraries  
-▶Pandas DataFrames
+▶Pandas DataFrames  
 ▶Pandas attributes and functions    
 ▶Data Cleaning  
 ▶Handling null values and outliers  
